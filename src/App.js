@@ -60,7 +60,7 @@ function App() {
         <Button1> Button 1</Button1>
         <Button2> Button 2</Button2>
         <Button3> Button 3</Button3>
-        <Button4 danger padding={5}> Button 4</Button4>
+        <Button4 danger padding={5}> Delete </Button4>
 
         
         <DivExample>
