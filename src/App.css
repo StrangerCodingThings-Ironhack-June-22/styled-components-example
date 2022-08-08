@@ -1,3 +1,7 @@
+:root {
+  --dark-font: darkred
+}
+
 .App {
   text-align: center;
 }
